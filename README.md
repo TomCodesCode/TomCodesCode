@@ -1,4 +1,4 @@
-<img src="https://github.com/TomCodesCode/TomCodesCode/blob/main/github-header-banner%20(1).png?raw=true width="100%" alt="Profile Background Banner">
+<img src="https://github.com/TomCodesCode/TomCodesCode/blob/main/github-header-banner%20(1).png?raw=true" width="100%" alt="Profile Background Banner">
 
 <!--
 **TomCodesCode/TomCodesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
