@@ -4,4 +4,4 @@
 **TomCodesCode/TomCodesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - **Currently working on EspressoMonitor- an embedded device for coffee super nerds☕️.**
-- 🤖 Next projects in line (in no particular order)- LKM driver for a custom DAC, race-track essentials live monitor (AI based), Unity mini game, computer vision squat analyzer, house remote TCP/Lidar robot.
+- 🤖 Next projects in line (in no particular order)- LKM driver for a custom DAC, race-track essentials live monitor (AI based), Unity mini game, computer vision gym exercise analyzer, house remote TCP/Lidar robot.
