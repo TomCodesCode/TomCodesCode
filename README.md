@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00EE00&width=435&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00EE00&width=435&lines=You're+a+Jedi,+Frodo...)](https://git.io/typing-svg)
 <img src="https://github.com/TomCodesCode/TomCodesCode/blob/main/github-header-banner%20(1).png?raw=true" width="100%" alt="Profile Background Banner">
 <!--
 **TomCodesCode/TomCodesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
