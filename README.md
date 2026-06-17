@@ -26,6 +26,7 @@
 ![TFT](https://img.shields.io/badge/-TFT%20Display-1a1a2e?style=flat-square&logoColor=ffffff)
 ![SD Card](https://img.shields.io/badge/-SD%20Card-003087?style=flat-square&logo=sandisk&logoColor=ffffff)
 ![Wi-Fi / IoT](https://img.shields.io/badge/-Wi--Fi%20%2F%20IoT-0082FC?style=flat-square&logo=wifi&logoColor=ffffff)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
 ![Multithreading](https://img.shields.io/badge/-Multithreading-6A0DAD?style=flat-square&logoColor=ffffff)
 ![NVS](https://img.shields.io/badge/-NVS-E7352C?style=flat-square&logo=espressif&logoColor=ffffff)
 
